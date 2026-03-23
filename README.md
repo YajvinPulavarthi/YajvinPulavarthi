@@ -17,7 +17,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:yajvin.p@email.com"><img src="https://img.shields.io/badge/📧_Email_Me-1e1e2e?style=for-the-badge" /></a>
+    <a href="mailto:yajvinkrishna1@gmail.com"><img src="https://img.shields.io/badge/📧_Email_Me-1e1e2e?style=for-the-badge" /></a>
     <img src="https://img.shields.io/badge/🎓_Class_of_2026-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🤖_Deep_Learning_Enthusiast-1e1e2e?style=for-the-badge" />
   </p>
@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://linkedin.com/in/yajvin-pulavarthi">
+  <a href="www.linkedin.com/in/yajvin-pulavarthi-292188252">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>

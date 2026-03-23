@@ -49,18 +49,18 @@
 <br/><br/>
 </td>
 
-<td width="50%" align="center">
-   <h3>📚 Frameworks & AI</h3>
-<img src="https://skillicons.dev/icons?i=flask,vue,bootstrap,tailwind,tensorflow,pytorch" />
-</td>
-
-</tr>
 <tr>
 <td width="50%" align="center">
-  <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb" />
-<br/><br/>
+  <h3>📚 Frameworks & Libraries</h3>
+  <img src="https://skillicons.dev/icons?i=flask,vue,bootstrap,sqlalchemy,celery,tensorflow,pytorch" />
+  <br/><br/>
 </td>
+
+<td width="50%" align="center">
+  <h3>🗄️ Databases</h3>
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres" />
+</td>
+</tr>
 
 <td width="50%" align="center">
     <h3>🧰 Tools & Platforms</h3>
@@ -79,6 +79,6 @@
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Yajvin-Pulavarthi&show_icons=true&theme=dark" alt="Stats" />
-  <img src="https://streak-stats.demolab.com?user=Yajvin-Pulavarthi&theme=dark&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YajvinPulavarthi&show_icons=true&theme=dark" alt="Stats" />
+  <img src="https://streak-stats.demolab.com?user=YajvinPulavarthi&theme=dark&hide_border=true" alt="Streak" />
 </div>
